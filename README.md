@@ -1,5 +1,34 @@
 <p align="center">
-  <img src="https://deltarune.com/assets/images/welcome.png" alt="Description of the image"/>
+  <img src="https://deltarune.com/assets/images/welcome.png" alt="Description of the image" width="800"  />
 </p>
-   <img src="https://i.postimg.cc/qRn9bpb6/oie-animation.gif"/> 
-   <img src="https://i.postimg.cc/HL6s8pzS/757623otqvgliiba.gif"/>
+  
+<p float="left">
+  <img src="https://i.postimg.cc/sfZnfjr1/tumblr-30cfe008b573daee9726e4044ef9001f-6dbd6a6d-1280.gif" width="1300" />
+  
+</p>
+
+  <table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
+           <br>  
+      <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Howdy hey!! I'm Noelle!! (Or Elly and Nels.. I'm an 19 year old artist, editor, VA and newie coder!! }}$
+<p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Feel free to sit next to me or whisper!! I am more than happy to talk x3c }}$
+<p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Inspo for ponies is okay! Please don't outright copy though.. x0x}}$<br/>
+<p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ I am a Fictionkin!! People who disregard me or other fictionfolk DNI!!}}$<br/>
+<p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ If you wanna know more about me or wanna check my other socials, go take a peek! (PLEASE)}}$
+
+  </th>
+
+  <p float="left">
+  <img src="https://i.postimg.cc/SsjQWw1g/544f92b16960731d0c96d0bc407b1be990a1638d.png" width="100" />
+  <img src="https://i.postimg.cc/NjYyMyX6/basestampdeltarune.gif" width="100" />
+  <img src=https://i.postimg.cc/QtQFbkxK/aubreyhappy.gif width="100" />
+  <img src="https://i.postimg.cc/vZCwZJ7j/792276eef354006ef196c2a4362f23cf418f05bf.gif" width="100" />
+  <img src="https://i.postimg.cc/76xPnvC0/smileystamps1.gif" width="100" />
+  <img src="https://i.postimg.cc/1zXNcNLX/ilovewinter.gif"  width="100"/>
+  <img src="https://i.postimg.cc/0yfBKLsP/dci76jn-1c7a016e-e1ee-4128-9275-79467e647afc.png" width="100" />
+  <img src="https://i.postimg.cc/8zxgz2BV/noelleandkrisdance.gif" width="100" />
+  <img src="https://i.postimg.cc/Lsx6gHDB/tumblr-c8e8255266563289203e1d34088e5010-22ffb4c2-100.webp" width="100" />
+
+   </p>
+
