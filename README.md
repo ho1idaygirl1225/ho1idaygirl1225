@@ -11,7 +11,7 @@
     <tr align="center"></tr>
       <th>
            <br>  
-      <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Howdy hey!! I'm Noelle!! (Or Elly and Nels.. I'm an 19 year old artist, editor, VA and newie coder!! }}$
+      <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Howdy hey!! I'm Noelle!! (Or Elly and Nels.. I'm an 19 year old artist, editor, VA and coder!! }}$
 <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Feel free to sit next to me or whisper!! I am more than happy to talk x3c }}$
 <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Inspo for ponies is okay! Please don't outright copy though.. x0x}}$<br/>
 <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ I am a Fictionkin!! People who disregard me or other fictionfolk DNI!!}}$<br/>
@@ -28,7 +28,7 @@
   <img src="https://i.postimg.cc/1zXNcNLX/ilovewinter.gif"  width="100"/>
   <img src="https://i.postimg.cc/0yfBKLsP/dci76jn-1c7a016e-e1ee-4128-9275-79467e647afc.png" width="100" />
   <img src="https://i.postimg.cc/8zxgz2BV/noelleandkrisdance.gif" width="100" />
-  <img src="https://i.postimg.cc/Lsx6gHDB/tumblr-c8e8255266563289203e1d34088e5010-22ffb4c2-100.webp" width="100" />
+
 
    </p>
 
