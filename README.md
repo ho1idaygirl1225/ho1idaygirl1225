@@ -37,6 +37,6 @@
 ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊ [![Strawpage](https://shields.io)](https://ho1idayg1rl1225.straw.page/)   ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊
 [![ATA](https://shields.io)](https://ho1idayg1rl1225.atabook.org/) ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊
 [![SpaceHey](https://shields.io)](https://spacehey.com/ho1idayg1rl1225) ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊
-[![Carrd](https://ho1idayg1rl1225.carrd.co/) ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊
+[Carrd](https://ho1idayg1rl1225.carrd.co/) ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊
 
 
