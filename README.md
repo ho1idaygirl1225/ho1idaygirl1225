@@ -32,3 +32,11 @@
 
    </p>
 
+
+ 
+₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊ [![Strawpage](https://shields.io)](https://ho1idayg1rl1225.straw.page/)   ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊
+[![ATA](https://shields.io)](https://ho1idayg1rl1225.atabook.org/) ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊
+[![SpaceHey](https://shields.io)](https://spacehey.com/ho1idayg1rl1225) ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊
+[![Prounouns](https://shields.io)](https://pronouns.cc/@ho1idayg1rl1225) ₊˚｡⋆❆⋆｡˚₊₊˚｡⋆❆⋆｡˚₊
+
+
