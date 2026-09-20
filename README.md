@@ -15,6 +15,7 @@
 <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Feel free to sit next to me or whisper!! I am more than happy to talk x3c }}$
 <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Inspo for ponies is okay! Please don't outright copy though.. x0x}}$<br/>
 <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ I am a Fictionkin!! People who disregard me or other fictionfolk DNI!!}}$<br/>
+<p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ Please refer me (Noelle) as me! Not as seperate beings..}}$<br/>
 <p align="center"> $\huge\color{#efbce7}{\textsf{❅.⁺₊ If you wanna know more about me or wanna check my other socials, go take a peek! (PLEASE)}}$
 
   </th>
